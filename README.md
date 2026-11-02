@@ -11,7 +11,7 @@
 ## 在线使用与离线使用
 
 - **在线查询**：打开[在线查询网页](https://luoluohuaya.github.io/fujian-recruitment-query/)即可使用。首次载入的数据量较大，请耐心等待。
-- **离线查询**：打开[发行作品下载页](https://github.com/luoluohuaya/fujian-recruitment-query/releases/latest)，在“Assets”中下载“福建招考岗位与成绩查询_离线版.html”到电脑，双击用新版 Chrome 或 Microsoft Edge 打开；首次加载需要等待解压。岗位筛选不需要后端服务，打开岗位来源、成绩来源和百度地图时需要联网。
+- **离线查询**：直接下载[福建招考岗位与成绩查询离线版（HTML）](https://github.com/luoluohuaya/fujian-recruitment-query/releases/download/v2026.10.28/_.html)到电脑（GitHub 显示的附件文件名为 `_.html`，内容与原始离线版一致）；也可以在[发行作品下载页](https://github.com/luoluohuaya/fujian-recruitment-query/releases/latest)的附件中下载，双击用新版 Chrome 或 Microsoft Edge 打开；首次加载需要等待解压。岗位筛选不需要后端服务，打开岗位来源、成绩来源和百度地图时需要联网。
 - 网页内置的是数据快照，**不会自动同步官方最新公告**。更新后需要重新访问新版网页或下载新版文件。
 
 ## 如何选岗
